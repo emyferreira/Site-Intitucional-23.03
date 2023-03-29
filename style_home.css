@@ -1,0 +1,54 @@
+body {
+    background-image: url(fundo_home.png);
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: black;
+}
+.separacao {
+    border-top: 2px solid aqua;
+}
+.cabecalho {
+    display: flex;
+    color: rgb(172, 92, 0);
+    margin-top: 0;
+    height: 50px;
+    background-color: black;
+    
+}
+.comeco {
+    color: aqua;
+    margin-left: 80px;
+    justify-content: start;
+    font-size: 15px;
+}
+.fim {
+    display: flex;
+    justify-content: end;
+    margin-left: 550px;
+    font-size: 10px;
+
+}
+.menu {
+    display: flex;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 5px;
+    font-size: 10px;
+}
+.reta {
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 20px;
+    margin-top: 20px;
+}
+.frase {
+    color: white;
+    margin-top: 150px;
+    margin-left: 500px;
+    font-size: 25px;
+}
+.aqua {
+    color: aqua;
+}
+
